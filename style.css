@@ -1,0 +1,38 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #F9F8F6;
+  }
+  
+  .playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+  }
+
+.primary-text-color {
+    color: #333333;
+  }
+
+.subtle-element-color {
+  color: #555555;
+}
+
+#Hero-Section {
+  min-height: 80vh;
+}
+
+a:hover {
+  color: #8DA399;
+}
+
+.card-border-color {
+  border: 2px solid #8DA399;
+}
+
+#Footer > div > p{
+  font-size: .9rem;
+}
